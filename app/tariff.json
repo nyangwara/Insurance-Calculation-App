@@ -1,0 +1,19 @@
+{
+  "Date": [
+    {
+      "cargo_type": "Glass",
+      "rate": 0.04,
+      "freight_amount": 4000
+    },
+    {
+      "cargo_type": "Hazardous",
+      "rate": 0.10,
+      "freight_amount": 9000
+    },
+    {
+      "cargo_type": "Other",
+      "rate": 0.05,
+      "freight_amount": 3000
+    }
+  ]
+}
